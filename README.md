@@ -1,13 +1,62 @@
-# Hi, I'm Rondi Seba
+======================= ENGLISH VERSION =====================================
+# 👋 Hi, I'm Rondi Seba
 
-**`Data Science and Dev python`**
+**`Data Scientist | Backend Developer (Python/PHP)`**
 
-Ciência da computação (UFMA 2020-2024) e cursando especialização em análise de dados e IA (UFMA, 2024-2025).
-Trabalho como desenvolvedor python/php e cientista de dados. Especializado em transformar grandes volumes de dados (ETL) em informações estratégicas. 
-Domínio em ferramentas estatísticas, análise de dados, web scraping, integração com APIs e tecnologias Big Data e banco de dados (SQL e NoSQL). 
-Experiência com pipelines de dados, modelagem e visualização em ferramentas como Power BI, Tableau, Streamlit. Perfil analítico, excelente comunicador e habilidades em treinamento de equipes, destacando estatística, e cálculos avançados. 
+You have the data — I have the skills to turn it into valuable insights. Let's work together!
 
-**'SPOILER ALERT'**: Sou farmacêutico, com especialização, mestrado e doutorado, fui professor universitário por +15 anos, mas fiz transição de carreira pra área de programação, mas trouxe diversas hard e softskill da minha outra carreira.
+## 🧠 About Me
+
+🎓 **Academic Background**  
+- B.Sc. in Computer Science (UFMA, 2020–2025)  
+- Postgraduate in Data Analysis and Artificial Intelligence (UFMA, 2024–2025)  
+- Licensed Pharmacist with a Master's in Analytical Chemistry and Ph.D. studies in Biotechnology (incomplete)
+
+💼 **Professional Focus**  
+- Backend development with Python and PHP  
+- Data pipelines, ETL, and API integrations  
+- SQL and NoSQL database management  
+- Data scraping and automation  
+- Statistical analysis and data visualization with Power BI, Streamlit, and Tableau  
+- Strong analytical profile with leadership and team training experience
+
+🔁 I transitioned into tech in 2020, after more than 15 years in academia and the pharmaceutical industry. I bring a unique blend of scientific rigor, technical expertise, and communication skills to every project.
+
+---
+
+📫 **Let’s connect!**  
+Feel free to reach out on linkedin or explore my projects here on GitHub.
+
+
+=======================  VERSÃO PORTUGUÊS BR ================================
+# 👋 Olá, eu sou o Rondi Seba
+
+**`Data Scientist | Backend Developer (Python/PHP)`**
+
+Transformo dados em decisões inteligentes. Você tem os dados — eu tenho o conhecimento para convertê-los em valor estratégico. Vamos colaborar?
+
+## 🧠 Sobre mim
+
+🎓 **Formação Acadêmica**  
+- Ciência da Computação (UFMA, 2020–2025)  
+- Pós-graduação em Análise de Dados e IA (UFMA, 2024–2025)  
+- Farmacêutico com mestrado em Química Analítica e doutorado (incompleto) em Biotecnologia
+
+💼 **Atuação Profissional**  
+- Desenvolvimento backend com Python e PHP  
+- ETL, Web scraping e integração com APIs  
+- Bancos de dados SQL e NoSQL  
+- Visualização e modelagem com Power BI, Streamlit e Tableau  
+- Pipelines de dados ponta a ponta  
+- Experiência em liderança, docência e análise científica
+
+🔁 **Transição de carreira para TI desde 2020**, unindo conhecimento técnico, científico e visão estratégica.
+
+---
+
+📫 **Vamos conversar?**  
+Me chame no Linkedin ou confira meus projetos aqui no GitHub!
+
 
 <p align="left">
     <a href="https://youtube.com/@prof.rondinelisebasalomao3732?si=0g9Gn-I4GlOIAAQ_">
