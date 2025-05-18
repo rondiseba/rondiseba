@@ -128,8 +128,8 @@ Me chame no Linkedin ou confira meus projetos aqui no GitHub!
 />
 <img 
     align="left" 
-    alt="Jango"
-    title="Jango" 
+    alt="DJango"
+    title="DJango" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"        
