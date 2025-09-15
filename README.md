@@ -1,9 +1,8 @@
-======================= ENGLISH VERSION =====================================
 # 👋 Hi, I'm Rondi Seba
 
-**`Data Scientist | Backend Developer (Python/PHP)`**
+**`Data Scientist | Backend Software Engineer (Python/Typescript/Node.Js)`**
 
-You have the data — I have the skills to turn it into valuable insights. Let's work together!
+You have the data and the problem — I have the skills to turn it into valuable insights. Let's work together!
 
 ## 🧠 About Me
 
@@ -13,7 +12,8 @@ You have the data — I have the skills to turn it into valuable insights. Let's
 - Licensed Pharmacist with a Master's in Analytical Chemistry and Ph.D. studies in Biotechnology (incomplete)
 
 💼 **Professional Focus**  
-- Backend development with Python and PHP  
+- Backend development Python | Typescript | PHP | Java
+- APIs   
 - Data pipelines, ETL, and API integrations  
 - SQL and NoSQL database management  
 - Data scraping and automation  
@@ -33,7 +33,7 @@ Feel free to reach out on linkedin or explore my projects here on GitHub.
 
 **`Data Scientist | Backend Developer (Python/PHP)`**
 
-Transformo dados em decisões inteligentes. Você tem os dados — eu tenho o conhecimento para convertê-los em valor estratégico. Vamos colaborar?
+Transformo dados e problemas em soluções inteligentes. Você tem os dados — eu tenho as habilidades para convertê-los em valor estratégico. Vamos colaborar?
 
 ## 🧠 Sobre mim
 
@@ -43,7 +43,8 @@ Transformo dados em decisões inteligentes. Você tem os dados — eu tenho o co
 - Farmacêutico com mestrado em Química Analítica e doutorado (incompleto) em Biotecnologia
 
 💼 **Atuação Profissional**  
-- Desenvolvimento backend com Python e PHP  
+- Desenvolvimento backend com Python | Typescript | Node.Js | Java
+- APIs
 - ETL, Web scraping e integração com APIs  
 - Bancos de dados SQL e NoSQL  
 - Visualização e modelagem com Power BI, Streamlit e Tableau  
