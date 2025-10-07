@@ -426,40 +426,60 @@ Me chame no Linkedin ou confira meus projetos aqui no GitHub!
 <br clear="left"/>
 <br/>
 
-### 📊 Estatísticas
+### 0 to Hero...
 
-<p>
-    <img 
-        align="left" 
-        alt="Rondi's GitHub Stats" 
-        height="160" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Rondiseba&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-        align="left" 
-        alt="Rondi's Top Languages" 
-        height="160" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondiseba&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</p>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=rondiseba&show_icons=true&theme=github_dark&include_all_commits=true&hide_rank=true&hide_border=true"
+        alt="Rondineli's GitHub Stats"
+        height="160"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondiseba&layout=compact&langs_count=5&card_width=320&theme=github_dark&hide_border=true"
+        alt="Top Languages"
+        height="160"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=rondiseba&theme=github_dark&hide_border=true"
+        alt="GitHub Contribution Streak"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=rondiseba&theme=onestar&no-frame=true&row=2&column=3"
+        alt="GitHub Trophies"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
-<br clear="left"/>
+
 
 ---
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rondiseba/rondiseba/output/snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rondiseba/rondiseba/output/snake.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rondiseba/rondiseba/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rondiseba/rondiseba/output/github-contribution-grid-snake.svg">
         <img 
             alt="Snake eating my contributions" 
-            <img src="https://github.com/rondiseba/rondiseba/blob/main/output/snake.svg?raw=true" alt="Snake animation" />
+            src="https://raw.githubusercontent.com/rondiseba/rondiseba/output/github-contribution-grid-snake.svg"
             width="100%"
             style="max-width: 800px;"
         />
     </picture>
 </div>
+
 
 <div align="center">
     <img 
