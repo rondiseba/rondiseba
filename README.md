@@ -1,17 +1,17 @@
-# <img src="https://api.iconify.design/line-md/emoji-smile.svg" alt="Hello" width="32" height="32"> Hello there, I'm Rondi Seba
+# <img src="https://api.iconify.design/line-md:account.svg" alt="Hello" width="32" height="32"> Hello there, I'm Rondi Seba
 
 **`Data Scientist | Backend Software Engineer`**
 
 Give me chaos, and I will return solutions.
 
-## <img src="https://api.iconify.design/line-md/lightbulb-twotone.svg" alt="About" width="28" height="28"> About Me
+## <img src="https://api.iconify.design/line-md:lightbulb-twotone.svg" alt="About" width="28" height="28"> About Me
 
-<img src="https://api.iconify.design/line-md/document-list.svg" alt="Academic" width="20" height="20"> **Academic Background**  
+<img src="https://api.iconify.design/line-md:document-list.svg" alt="Academic" width="20" height="20"> **Academic Background**  
 - B.Sc. in Computer Science (UFMA, 2020–2025)  
 - Postgraduate in Data Analysis and Artificial Intelligence (UFMA, 2024–2025)  
 - Licensed Pharmacist with a Master's in Analytical Chemistry and Ph.D. studies in Biotechnology (incomplete)
 
-<img src="https://api.iconify.design/line-md/clipboard-list.svg" alt="Professional" width="20" height="20"> **Professional Focus**  
+<img src="https://api.iconify.design/line-md:clipboard-list.svg" alt="Professional" width="20" height="20"> **Professional Focus**  
 - Backend development Python | Typescript | PHP | Java
 - APIs   
 - Data pipelines, ETL, and API integrations  
@@ -24,7 +24,7 @@ Give me chaos, and I will return solutions.
 
 ---
 
-<img src="https://api.iconify.design/line-md/email-twotone.svg" alt="Contact" width="20" height="20"> **Let’s connect!**  
+<img src="https://api.iconify.design/line-md:email-twotone.svg" alt="Contact" width="20" height="20"> **Let’s connect!**  
 Feel free to reach out on linkedin or explore my projects here on GitHub.
 
 <p align="center">
@@ -77,20 +77,20 @@ Feel free to reach out on linkedin or explore my projects here on GitHub.
 
 ---
 =======================  VERSÃO PORTUGUÊS BR ================================
-# <img src="https://api.iconify.design/line-md/emoji-smile.svg" alt="Olá" width="32" height="32"> Olá, eu sou o Rondineli Seba
+# <img src="https://api.iconify.design/line-md:account.svg" alt="Olá" width="32" height="32"> Olá, eu sou o Rondineli Seba
 
 **`Cientista de dados | Engenheiro de Software`**
 
 Me entregue o caos, te devolvo soluções.
 
-## <img src="https://api.iconify.design/line-md/lightbulb-twotone.svg" alt="Sobre" width="28" height="28"> Sobre mim
+## <img src="https://api.iconify.design/line-md:lightbulb-twotone.svg" alt="Sobre" width="28" height="28"> Sobre mim
 
-<img src="https://api.iconify.design/line-md/document-list.svg" alt="Formação" width="20" height="20"> **Formação Acadêmica**  
+<img src="https://api.iconify.design/line-md:document-list.svg" alt="Formação" width="20" height="20"> **Formação Acadêmica**  
 - Ciência da Computação (UFMA, 2020–2025)  
 - Pós-graduação em Análise de Dados e IA (UFMA, 2024–2025)  
 - Farmacêutico com mestrado em Química Analítica e doutorado (incompleto) em Biotecnologia
 
-<img src="https://api.iconify.design/line-md/clipboard-list.svg" alt="Atuação" width="20" height="20"> **Atuação Profissional**  
+<img src="https://api.iconify.design/line-md:clipboard-list.svg" alt="Atuação" width="20" height="20"> **Atuação Profissional**  
 - Desenvolvimento backend com Python | Typescript | Node.Js | Java
 - APIs
 - ETL, Web scraping e integração com APIs  
@@ -99,16 +99,16 @@ Me entregue o caos, te devolvo soluções.
 - Pipelines de dados ponta a ponta  
 - Experiência em liderança, docência e análise científica
 
-<img src="https://api.iconify.design/line-md/uploading-loop.svg" alt="Transição" width="20" height="20"> **Trabalhei por 15 anos como farmacêutico (indústria, P&D e docência universitária). Em 2020, fiz a transição de carreira e, 5 anos depois, tornei-me um profissional de tecnologia, capaz de se adaptar e unir conhecimento técnico, científico e visão estratégica.**
+<img src="https://api.iconify.design/line-md:uploading-loop.svg" alt="Transição" width="20" height="20"> **Trabalhei por 15 anos como farmacêutico (indústria, P&D e docência universitária). Em 2020, fiz a transição de carreira e, 5 anos depois, tornei-me um profissional de tecnologia, capaz de se adaptar e unir conhecimento técnico, científico e visão estratégica.**
 
 ---
 
-<img src="https://api.iconify.design/line-md/email-twotone.svg" alt="Contato" width="20" height="20"> **Vamos conversar?**  
+<img src="https://api.iconify.design/line-md:email-twotone.svg" alt="Contato" width="20" height="20"> **Vamos conversar?**  
 Me chame no Linkedin ou confira meus projetos aqui no GitHub!
 
 <br/>
 
-### <img src="https://api.iconify.design/line-md/cog-loop.svg" alt="Tech" width="24" height="24"> Linguagens e Tecnologias
+### <img src="https://api.iconify.design/line-md:cog-loop.svg" alt="Tech" width="24" height="24"> Linguagens e Tecnologias
 
 <img 
     align="left" 
