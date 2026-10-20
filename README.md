@@ -7,12 +7,14 @@ Give me chaos, and I will return solutions.
 ## <img src="https://api.iconify.design/line-md:lightbulb-twotone.svg" alt="About" width="28" height="28"> About Me
 
 <img src="https://api.iconify.design/line-md:document-list.svg" alt="Academic" width="20" height="20"> **Academic Background**  
+- PhD student in CS UFMA (2026-2029)
 - B.Sc. in Computer Science (UFMA, 2020–2025)  
 - Postgraduate in Data Analysis and Artificial Intelligence (UFMA, 2024–2025)  
 - Licensed Pharmacist with a Master's in Analytical Chemistry and Ph.D. studies in Biotechnology (incomplete)
 
 <img src="https://api.iconify.design/line-md:clipboard-list.svg" alt="Professional" width="20" height="20"> **Professional Focus**  
-- Backend development Python | Typescript | PHP | Java
+- Backend development: Python | Typescript | Node.Js | HTML5 | Lua
+- Software and suite test develop
 - APIs   
 - Data pipelines, ETL, and API integrations  
 - SQL and NoSQL database management  
@@ -86,12 +88,14 @@ Me entregue o caos, te devolvo soluções.
 ## <img src="https://api.iconify.design/line-md:lightbulb-twotone.svg" alt="Sobre" width="28" height="28"> Sobre mim
 
 <img src="https://api.iconify.design/line-md:document-list.svg" alt="Formação" width="20" height="20"> **Formação Acadêmica**  
+- Docente Programa de doutorado em Ciência da Computação - UFMA (2026-2029)
 - Ciência da Computação (UFMA, 2020–2025)  
 - Pós-graduação em Análise de Dados e IA (UFMA, 2024–2025)  
 - Farmacêutico com mestrado em Química Analítica e doutorado (incompleto) em Biotecnologia
 
 <img src="https://api.iconify.design/line-md:clipboard-list.svg" alt="Atuação" width="20" height="20"> **Atuação Profissional**  
-- Desenvolvimento backend com Python | Typescript | Node.Js | Java
+- Desenvolvimento backend com Python | Typescript | Node.Js | HTML5 | Lua
+- Desenvolvedor de aplicações e suites de teste
 - APIs
 - ETL, Web scraping e integração com APIs  
 - Bancos de dados SQL e NoSQL  
